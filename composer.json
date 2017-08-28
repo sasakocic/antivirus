@@ -1,0 +1,12 @@
+{
+  "name": "sasakocic/example",
+  "description": "Example Project",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/App/",
+      "Tests\\": "tests/Tests/"
+    }
+  }
+}
